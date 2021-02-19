@@ -3,12 +3,6 @@
     "type": "library",
     "description": "Wrapper for JTL-Ameise (c) JTL-Software-GmbH cli command creation.",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Daniel Burger",
-            "email": "daniel.burger@sbsedv.de"
-        }
-    ],
     "require": {
         "php": ">=7.4.0"
     },

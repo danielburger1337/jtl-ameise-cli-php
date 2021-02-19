@@ -4,6 +4,8 @@ Wrapper for JTL-Ameise (c) JTL-Software-GmbH cli command creation written in PHP
 
 This package is currently tested against version **0.984**.
 
+Unit tests have yet to be implemented.
+
 ___
 
 A [phpDocumentor](https://www.phpdoc.org/) documentation of this package can be found in [/docs](./docs) or [here](https://danielburger1337.github.io/jtl-ameise-cli-php/).

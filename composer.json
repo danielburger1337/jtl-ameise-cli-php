@@ -1,7 +1,7 @@
 {
-    "name": "sbsedv/jtl-ameise",
+    "name": "sbsedv/jtl-ameise-cli",
     "type": "library",
-    "description": "Wrapper for JTL-Ameise cli command creation.",
+    "description": "Wrapper for JTL-Ameise (c) JTL-Software-GmbH cli command creation.",
     "license": "MIT",
     "authors": [
         {

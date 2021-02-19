@@ -6,7 +6,7 @@ This package is currently tested against version **0.984**.
 
 ___
 
-A [phpDocumentor](https://www.phpdoc.org/) documentation of this package can be found in [/docs](./docs) or [here](https://github.com/danielburger1337/jtl-ameise-cli-php/settings).
+A [phpDocumentor](https://www.phpdoc.org/) documentation of this package can be found in [/docs](./docs) or [here](https://danielburger1337.github.io/jtl-ameise-cli-php/).
 
 Documentation on all available command line options is available [here](https://guide.jtl-software.de/jtl-wawi/jtl-ameise/cmd-line-version/) (GERMAN ONLY).
 

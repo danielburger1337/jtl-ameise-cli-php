@@ -1,0 +1,20 @@
+{
+    "name": "sbsedv/jtl-ameise",
+    "type": "library",
+    "description": "Wrapper for JTL-Ameise cli command creation.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Burger",
+            "email": "daniel.burger@sbsedv.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SBSEDV\\Jtl\\Ameise\\": "src/"
+        }
+    }
+}

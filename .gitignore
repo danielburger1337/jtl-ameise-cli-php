@@ -1,0 +1,10 @@
+# Ignore PHP Composer dependencies
+/vendor/
+/composer.lock
+
+# Ignore MacOS files
+.DS_Store
+
+# Ignore phpdoc
+/.phpdoc
+/phpdoc
